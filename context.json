@@ -1,0 +1,511 @@
+{
+    "AAPL": {
+        "chat_gpt": "Apple's premium products and collaborations with luxury brands position it well within the luxury tech space.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1786816672793284863",
+                "text": "$FTZ $FTZFF Copper is going to see the largest run in the metals sector IMO $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BYND $CRON $DIS $DISH $ELY $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU $SNAP $SPY $TLT $T $TSLA $TVIX $UWT $UVXY $V $VXX $XOM",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-05-04T17:54:26Z"
+            },
+            {
+                "url": "https://twitter.com/Stox_Watcher/status/1765804090510942423",
+                "text": "We knew that this was coming! Sector rotation into metals is coming! $FNI $FTZ $NVG $BNN $AABB #gold #metals $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BABA $BYND $CRON $DIS $DISH $ELY $FB $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU",
+                "username": "Stox_Watcher",
+                "user_url": "https://twitter.com/Stox_Watcher",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1715475519649554435/ylf8A10P_normal.jpg",
+                "date": "2024-03-07T18:17:56Z"
+            },
+            {
+                "url": "https://twitter.com/breadboxalerts/status/1765803970608373798",
+                "text": "We knew that this was coming! Sector rotation into metals is coming! $FNI $FTZ $NVG $BNN $AABB #gold #metals $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BABA $BYND $CRON $DIS $DISH $ELY $FB $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU",
+                "username": "breadboxalerts",
+                "user_url": "https://twitter.com/breadboxalerts",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1218369447091720192/F7WheqPQ_normal.jpg",
+                "date": "2024-03-07T18:17:28Z"
+            }
+        ],
+        "experts": []
+    },
+    "CPRI": {
+        "chat_gpt": "Capri Holdings, owner of Versace, Michael Kors, and Jimmy Choo, can leverage influencer partnerships to enhance its luxury appeal.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.valuethemarkets.com/analysis/investing-ideas/investing-luxury-goods-stocks",
+                "title": "High-End Investing: A Look at Luxury Goods Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "EL": {
+        "chat_gpt": "Est\u00e9e Lauder, with its high-end beauty products, stands to gain from the growing luxury market and influencer collaborations.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.koyfin.com/blog/best-luxury-stocks/",
+                "title": "8 Best Luxury Stocks of 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.finder.com/stock-trading/luxury-stocks",
+                "title": "9 top luxury stocks to buy in 2024 - Finder.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.dividend.com/dividend-education/the-best-luxury-goods-stocks-an-investors-cheatsheet/",
+                "title": "The Best Luxury Goods Stocks: An Investor's Cheatsheet",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "GOOS": {
+        "chat_gpt": "Canada Goose could leverage its high-end outerwear status and influencer endorsements to capture more of the luxury market.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "HSY": {
+        "chat_gpt": "Hershey's ownership of artisan chocolate brands could benefit from the luxury trend through premium product offerings.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "NKE": {
+        "chat_gpt": "Nike's collaborations with luxury brands and influencers can further elevate its products into the luxury sportswear segment.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "PVH": {
+        "chat_gpt": "PVH Corp., with luxury brands like Calvin Klein and Tommy Hilfiger, can utilize influencer partnerships to boost its luxury profile.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.dividend.com/dividend-education/the-best-luxury-goods-stocks-an-investors-cheatsheet/",
+                "title": "The Best Luxury Goods Stocks: An Investor's Cheatsheet",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.valuethemarkets.com/analysis/investing-ideas/investing-luxury-goods-stocks",
+                "title": "High-End Investing: A Look at Luxury Goods Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "RACE": {
+        "chat_gpt": "Ferrari, synonymous with luxury and performance, could see increased interest from a broader audience through influencer marketing.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.koyfin.com/blog/best-luxury-stocks/",
+                "title": "8 Best Luxury Stocks of 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://blog.roundhillinvestments.com/how-to-invest-in-luxury-stocks",
+                "title": "How to Invest in Luxury Stocks: The Complete Beginners ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/luxury-brand-stocks/",
+                "title": "Best 3 Luxury Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "RL": {
+        "chat_gpt": "Ralph Lauren, with its classic luxury appeal, can gain from increased luxury consumption and influencer marketing strategies.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.dividend.com/dividend-education/the-best-luxury-goods-stocks-an-investors-cheatsheet/",
+                "title": "The Best Luxury Goods Stocks: An Investor's Cheatsheet",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.nasdaq.com/articles/luxury-brand-leaders:-3-stocks-shining-in-high-end-retail",
+                "title": "Luxury Brand Leaders: 3 Stocks Shining in High-End Retail",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.valuethemarkets.com/analysis/investing-ideas/investing-luxury-goods-stocks",
+                "title": "High-End Investing: A Look at Luxury Goods Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "SFIX": {
+        "chat_gpt": "Stitch Fix's personalized styling service could capitalize on the growing demand for luxury and designer wear through influencer partnerships.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TSLA": {
+        "chat_gpt": "Tesla's brand as a luxury electric vehicle maker positions it to benefit from the luxury trend, especially with celebrity endorsements.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://scrab.com/blog/the-ultimate-guide-to-buying-luxury-stocks",
+                "title": "The Ultimate Guide to Buying Luxury Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://blog.roundhillinvestments.com/how-to-invest-in-luxury-stocks",
+                "title": "How to Invest in Luxury Stocks: The Complete Beginners ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1786816672793284863",
+                "text": "$FTZ $FTZFF Copper is going to see the largest run in the metals sector IMO $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BYND $CRON $DIS $DISH $ELY $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU $SNAP $SPY $TLT $T $TSLA $TVIX $UWT $UVXY $V $VXX $XOM",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-05-04T17:54:26Z"
+            },
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1729475520671150268",
+                "text": "$UREKF - (CSE: ERKA) (OTC: UREKF) An Opportunity in Canada's Emerging Lithium Sector https://t.co/5HUK0vAx77 $AAPL $ABBV $ADBE $AMD $AMZN $AZO $BA $BABA $DIS $META $FDX $HD $INTC $IWM $JPM $LMT $LOW $MA $MSFT $NFLX $NVDA $QQQ $RH $ROKU $SNAP $SPY $T $TLT $TSLA $UVXY $V $VXX $XOM https://t.co/cw7ahjVii6",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2023-11-28T12:21:10Z"
+            },
+            {
+                "url": "https://twitter.com/WorthyStock/status/1760335754662916472",
+                "text": "$EBS Emergent BioSolutions Appoints Industry Leader Joseph C. Papa as New President and CEO\n\nhttps://t.co/pmIeAq5DJV\n\n$AAPL $ABBV $ADBE $AMD $AMZN $AZO $BA $BABA $DIS $META $FDX $HD $INTC $IWM $JPM $LMT $LOW $MA $MSFT $NFLX $NVDA $RH $ROKU $SNAP $SPY $T $TLT $TSLA $UVXY $V $VXX",
+                "username": "WorthyStock",
+                "user_url": "https://twitter.com/WorthyStock",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1157100356096053249/mMSKGqS3_normal.jpg",
+                "date": "2024-02-21T16:08:44Z"
+            }
+        ],
+        "experts": []
+    },
+    "TPR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.koyfin.com/blog/best-luxury-stocks/",
+                "title": "8 Best Luxury Stocks of 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "AZO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1729475520671150268",
+                "text": "$UREKF - (CSE: ERKA) (OTC: UREKF) An Opportunity in Canada's Emerging Lithium Sector https://t.co/5HUK0vAx77 $AAPL $ABBV $ADBE $AMD $AMZN $AZO $BA $BABA $DIS $META $FDX $HD $INTC $IWM $JPM $LMT $LOW $MA $MSFT $NFLX $NVDA $QQQ $RH $ROKU $SNAP $SPY $T $TLT $TSLA $UVXY $V $VXX $XOM https://t.co/cw7ahjVii6",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2023-11-28T12:21:10Z"
+            },
+            {
+                "url": "https://twitter.com/WorthyStock/status/1760335754662916472",
+                "text": "$EBS Emergent BioSolutions Appoints Industry Leader Joseph C. Papa as New President and CEO\n\nhttps://t.co/pmIeAq5DJV\n\n$AAPL $ABBV $ADBE $AMD $AMZN $AZO $BA $BABA $DIS $META $FDX $HD $INTC $IWM $JPM $LMT $LOW $MA $MSFT $NFLX $NVDA $RH $ROKU $SNAP $SPY $T $TLT $TSLA $UVXY $V $VXX",
+                "username": "WorthyStock",
+                "user_url": "https://twitter.com/WorthyStock",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1157100356096053249/mMSKGqS3_normal.jpg",
+                "date": "2024-02-21T16:08:44Z"
+            },
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1760335308804284779",
+                "text": "$EBS Emergent BioSolutions Appoints Industry Leader Joseph C. Papa as New President and CEO\n\nhttps://t.co/1JAsOlr0YG\n\n$AAPL $ABBV $ADBE $AMD $AMZN $AZO $BA $BABA $DIS $META $FDX $HD $INTC $IWM $JPM $LMT $LOW $MA $MSFT $NFLX $NVDA $RH $ROKU $SNAP $SPY $T $TLT $TSLA $UVXY $V $VXX",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-02-21T16:06:57Z"
+            }
+        ],
+        "experts": []
+    },
+    "EBS": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/WorthyStock/status/1760335754662916472",
+                "text": "$EBS Emergent BioSolutions Appoints Industry Leader Joseph C. Papa as New President and CEO\n\nhttps://t.co/pmIeAq5DJV\n\n$AAPL $ABBV $ADBE $AMD $AMZN $AZO $BA $BABA $DIS $META $FDX $HD $INTC $IWM $JPM $LMT $LOW $MA $MSFT $NFLX $NVDA $RH $ROKU $SNAP $SPY $T $TLT $TSLA $UVXY $V $VXX",
+                "username": "WorthyStock",
+                "user_url": "https://twitter.com/WorthyStock",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1157100356096053249/mMSKGqS3_normal.jpg",
+                "date": "2024-02-21T16:08:44Z"
+            },
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1760335308804284779",
+                "text": "$EBS Emergent BioSolutions Appoints Industry Leader Joseph C. Papa as New President and CEO\n\nhttps://t.co/1JAsOlr0YG\n\n$AAPL $ABBV $ADBE $AMD $AMZN $AZO $BA $BABA $DIS $META $FDX $HD $INTC $IWM $JPM $LMT $LOW $MA $MSFT $NFLX $NVDA $RH $ROKU $SNAP $SPY $T $TLT $TSLA $UVXY $V $VXX",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-02-21T16:06:57Z"
+            },
+            {
+                "url": "https://twitter.com/Stox_Watcher/status/1760335628615790722",
+                "text": "$EBS Emergent BioSolutions Appoints Industry Leader Joseph C. Papa as New President and CEO\n\nhttps://t.co/zVytNgvgq6\n\n$AAPL $ABBV $ADBE $AMD $AMZN $AZO $BA $BABA $DIS $META $FDX $HD $INTC $IWM $JPM $LMT $LOW $MA $MSFT $NFLX $NVDA $RH $ROKU $SNAP $SPY $T $TLT $TSLA $UVXY $V $VXX",
+                "username": "Stox_Watcher",
+                "user_url": "https://twitter.com/Stox_Watcher",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1715475519649554435/ylf8A10P_normal.jpg",
+                "date": "2024-02-21T16:08:13Z"
+            }
+        ],
+        "experts": []
+    },
+    "HD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1786816672793284863",
+                "text": "$FTZ $FTZFF Copper is going to see the largest run in the metals sector IMO $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BYND $CRON $DIS $DISH $ELY $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU $SNAP $SPY $TLT $T $TSLA $TVIX $UWT $UVXY $V $VXX $XOM",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-05-04T17:54:26Z"
+            },
+            {
+                "url": "https://twitter.com/Stox_Watcher/status/1765804090510942423",
+                "text": "We knew that this was coming! Sector rotation into metals is coming! $FNI $FTZ $NVG $BNN $AABB #gold #metals $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BABA $BYND $CRON $DIS $DISH $ELY $FB $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU",
+                "username": "Stox_Watcher",
+                "user_url": "https://twitter.com/Stox_Watcher",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1715475519649554435/ylf8A10P_normal.jpg",
+                "date": "2024-03-07T18:17:56Z"
+            },
+            {
+                "url": "https://twitter.com/breadboxalerts/status/1765803970608373798",
+                "text": "We knew that this was coming! Sector rotation into metals is coming! $FNI $FTZ $NVG $BNN $AABB #gold #metals $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BABA $BYND $CRON $DIS $DISH $ELY $FB $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU",
+                "username": "breadboxalerts",
+                "user_url": "https://twitter.com/breadboxalerts",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1218369447091720192/F7WheqPQ_normal.jpg",
+                "date": "2024-03-07T18:17:28Z"
+            }
+        ],
+        "experts": []
+    },
+    "LOW": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1786816672793284863",
+                "text": "$FTZ $FTZFF Copper is going to see the largest run in the metals sector IMO $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BYND $CRON $DIS $DISH $ELY $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU $SNAP $SPY $TLT $T $TSLA $TVIX $UWT $UVXY $V $VXX $XOM",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-05-04T17:54:26Z"
+            },
+            {
+                "url": "https://twitter.com/Stox_Watcher/status/1765804090510942423",
+                "text": "We knew that this was coming! Sector rotation into metals is coming! $FNI $FTZ $NVG $BNN $AABB #gold #metals $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BABA $BYND $CRON $DIS $DISH $ELY $FB $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU",
+                "username": "Stox_Watcher",
+                "user_url": "https://twitter.com/Stox_Watcher",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1715475519649554435/ylf8A10P_normal.jpg",
+                "date": "2024-03-07T18:17:56Z"
+            },
+            {
+                "url": "https://twitter.com/breadboxalerts/status/1765803970608373798",
+                "text": "We knew that this was coming! Sector rotation into metals is coming! $FNI $FTZ $NVG $BNN $AABB #gold #metals $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BABA $BYND $CRON $DIS $DISH $ELY $FB $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU",
+                "username": "breadboxalerts",
+                "user_url": "https://twitter.com/breadboxalerts",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1218369447091720192/F7WheqPQ_normal.jpg",
+                "date": "2024-03-07T18:17:28Z"
+            }
+        ],
+        "experts": []
+    },
+    "LULU": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/UpwardCapital/status/1786816672793284863",
+                "text": "$FTZ $FTZFF Copper is going to see the largest run in the metals sector IMO $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BYND $CRON $DIS $DISH $ELY $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU $SNAP $SPY $TLT $T $TSLA $TVIX $UWT $UVXY $V $VXX $XOM",
+                "username": "UpwardCapital",
+                "user_url": "https://twitter.com/UpwardCapital",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1761741377174429696/vcFwAfoC_normal.jpg",
+                "date": "2024-05-04T17:54:26Z"
+            },
+            {
+                "url": "https://twitter.com/Stox_Watcher/status/1765804090510942423",
+                "text": "We knew that this was coming! Sector rotation into metals is coming! $FNI $FTZ $NVG $BNN $AABB #gold #metals $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BABA $BYND $CRON $DIS $DISH $ELY $FB $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU",
+                "username": "Stox_Watcher",
+                "user_url": "https://twitter.com/Stox_Watcher",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1715475519649554435/ylf8A10P_normal.jpg",
+                "date": "2024-03-07T18:17:56Z"
+            },
+            {
+                "url": "https://twitter.com/breadboxalerts/status/1765803970608373798",
+                "text": "We knew that this was coming! Sector rotation into metals is coming! $FNI $FTZ $NVG $BNN $AABB #gold #metals $AAPL $ABBV $ADBE $AMAT $AMT $AMZN $BABA $BYND $CRON $DIS $DISH $ELY $FB $FDX $GOOG $HD $INTC $IWM $JPM $LK $LOW $LULU $LYFT $MA $MSFT $NVDA $NFLX $PINS $QQQ $RH $ROKU",
+                "username": "breadboxalerts",
+                "user_url": "https://twitter.com/breadboxalerts",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1218369447091720192/F7WheqPQ_normal.jpg",
+                "date": "2024-03-07T18:17:28Z"
+            }
+        ],
+        "experts": []
+    },
+    "RH": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/luxury-brand-stocks/",
+                "title": "Best 3 Luxury Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://admiralmarkets.com/education/articles/shares/luxury-stocks",
+                "title": "How to Invest in Luxury Stocks - Admiral Markets",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Quartr_App/status/1734241005078016025",
+                "text": "Gary Friedman stands out as one of the most engaging and unfiltered CEOs to listen to. \n\nBelow are 10 notable quotes from $RH's recent earnings call \ud83e\uddf5\n\n1. Why $RH will thrive during the next cycle: https://t.co/5KiRp3XHvP",
+                "username": "Quartr_App",
+                "user_url": "https://twitter.com/Quartr_App",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1776545312112259072/Gt9onU5v_normal.jpg",
+                "date": "2023-12-11T15:57:30Z"
+            },
+            {
+                "url": "https://twitter.com/DEXWireNews/status/1773433109041586334",
+                "text": "RH (NYSE: $RH) Soars 17%+ on Thursday on Upbeat 2024 Guidance in Q4 Financial Results\n\nhttps://t.co/GQWG4S1RXY\n\n#RestorationHardware #NYSE #RH #Earnings #Beat #Stocks #TradeIdeas #Home #Decorations #Furniture #Luxury #StockMarket #Gains #Profits #Uptrend",
+                "username": "DEXWireNews",
+                "user_url": "https://twitter.com/DEXWireNews",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1776608673084620800/f1NLQpJl_normal.jpg",
+                "date": "2024-03-28T19:32:56Z"
+            },
+            {
+                "url": "https://twitter.com/TedHZhang/status/1774591566629253177",
+                "text": "The action of a broad basket of stocks in multiple industry groups indicates the economy is roaring with no signs of slowing down. \n\nHomebuilders $ITB $TOL $PHM $LEN\n\nFood/restaurants $CAVA $CMG $SG $SHAK $WING\n\nRetail/Consumer $ANF $AEO $ELF $HIMS $DASH $RH $DECK $ONON $CELH $GPS $DKS\n\nPayment Processors: $SQ $PAY $V $MA\n\nConvenience stocks: $UBER $DASH $CART\n\nMetals/Mining/Commodities: $SCCO $FCX $STLD $NUE $GDX",
+                "username": "TedHZhang",
+                "user_url": "https://twitter.com/TedHZhang",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1550834359464239105/MZAv6ykY_normal.jpg",
+                "date": "2024-04-01T00:16:14Z"
+            }
+        ],
+        "experts": []
+    },
+    "CFR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://companiesmarketcap.com/luxury-goods/largest-luxury-goods-companies-by-market-cap/",
+                "title": "Largest luxury goods companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://blog.roundhillinvestments.com/how-to-invest-in-luxury-stocks",
+                "title": "How to Invest in Luxury Stocks: The Complete Beginners ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "HOG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.finder.com/stock-trading/luxury-stocks",
+                "title": "9 top luxury stocks to buy in 2024 - Finder.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.dividend.com/dividend-education/the-best-luxury-goods-stocks-an-investors-cheatsheet/",
+                "title": "The Best Luxury Goods Stocks: An Investor's Cheatsheet",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "IPAR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.finder.com/stock-trading/luxury-stocks",
+                "title": "9 top luxury stocks to buy in 2024 - Finder.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.dividend.com/dividend-education/the-best-luxury-goods-stocks-an-investors-cheatsheet/",
+                "title": "The Best Luxury Goods Stocks: An Investor's Cheatsheet",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "JWN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.dividend.com/dividend-education/the-best-luxury-goods-stocks-an-investors-cheatsheet/",
+                "title": "The Best Luxury Goods Stocks: An Investor's Cheatsheet",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/luxury-goods/largest-luxury-goods-companies-by-market-cap/",
+                "title": "Largest luxury goods companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.valuethemarkets.com/analysis/investing-ideas/investing-luxury-goods-stocks",
+                "title": "High-End Investing: A Look at Luxury Goods Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "WSM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.dividend.com/dividend-education/the-best-luxury-goods-stocks-an-investors-cheatsheet/",
+                "title": "The Best Luxury Goods Stocks: An Investor's Cheatsheet",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    }
+}
