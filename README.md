@@ -62,7 +62,6 @@ with open('theme.csv') as file:
 | HSY | Hershey's ownership of artisan chocolate brands could benefit from the luxury trend through premium product offerings. | chat_gpt |
 | NKE | Nike's collaborations with luxury brands and influencers can further elevate its products into the luxury sportswear segment. | chat_gpt,claude |
 | PVH | PVH Corp., with luxury brands like Calvin Klein and Tommy Hilfiger, can utilize influencer partnerships to boost its luxury profile. | chat_gpt,google |
-| RACE | Ferrari, synonymous with luxury and performance, could see increased interest from a broader audience through influencer marketing. | chat_gpt,google |
 | RL | Ralph Lauren, with its classic luxury appeal, can gain from increased luxury consumption and influencer marketing strategies. | chat_gpt,claude,google |
 | SFIX | Stitch Fix's personalized styling service could capitalize on the growing demand for luxury and designer wear through influencer partnerships. | chat_gpt,claude |
 | TSLA | Tesla's brand as a luxury electric vehicle maker positions it to benefit from the luxury trend, especially with celebrity endorsements. | chat_gpt,twitter,google |
