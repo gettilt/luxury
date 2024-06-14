@@ -106,29 +106,6 @@
         "tweets": [],
         "experts": []
     },
-    "RACE": {
-        "chat_gpt": "Ferrari, synonymous with luxury and performance, could see increased interest from a broader audience through influencer marketing.",
-        "claude": null,
-        "search_articles": [
-            {
-                "url": "https://www.koyfin.com/blog/best-luxury-stocks/",
-                "title": "8 Best Luxury Stocks of 2024",
-                "youtube_embed_url": null
-            },
-            {
-                "url": "https://blog.roundhillinvestments.com/how-to-invest-in-luxury-stocks",
-                "title": "How to Invest in Luxury Stocks: The Complete Beginners ...",
-                "youtube_embed_url": null
-            },
-            {
-                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/luxury-brand-stocks/",
-                "title": "Best 3 Luxury Stocks to Buy in 2024",
-                "youtube_embed_url": null
-            }
-        ],
-        "tweets": [],
-        "experts": []
-    },
     "RL": {
         "chat_gpt": "Ralph Lauren, with its classic luxury appeal, can gain from increased luxury consumption and influencer marketing strategies.",
         "claude": null,

@@ -6,7 +6,6 @@ GOOS,"chat_gpt,claude"
 HSY,chat_gpt
 NKE,"chat_gpt,claude"
 PVH,"chat_gpt,google"
-RACE,"chat_gpt,google"
 RL,"chat_gpt,claude,google"
 SFIX,"chat_gpt,claude"
 TSLA,"chat_gpt,twitter,google"
